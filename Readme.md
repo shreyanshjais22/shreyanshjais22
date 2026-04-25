@@ -118,9 +118,4 @@ I'm always open to internship opportunities, collaborations, or just talking abo
 
 *"I don't just write code. I build products that people actually use."*
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyanshjais22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjais22&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shreyanshjais22&theme=tokyonight&hide_border=true)
-
 </div>
